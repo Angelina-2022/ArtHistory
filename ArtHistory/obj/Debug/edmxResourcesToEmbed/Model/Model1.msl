@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище ArtHistoryDBModelContainer" CdmEntityContainer="ArtHistoryDBEntities">
+    <EntitySetMapping Name="TbEpohi">
+      <EntityTypeMapping TypeName="ArtHistoryDBModel.TbEpohi">
+        <MappingFragment StoreEntitySet="TbEpohi">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nazvanie" ColumnName="Nazvanie" />
+          <ScalarProperty Name="Opisanie" ColumnName="Opisanie" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+          <ScalarProperty Name="Favorite" ColumnName="Favorite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TbHudozhniki">
+      <EntityTypeMapping TypeName="ArtHistoryDBModel.TbHudozhniki">
+        <MappingFragment StoreEntitySet="TbHudozhniki">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fio" ColumnName="Fio" />
+          <ScalarProperty Name="Biografia" ColumnName="Biografia" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Epoha" ColumnName="Epoha" />
+          <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+          <ScalarProperty Name="Favorite" ColumnName="Favorite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TbKartini">
+      <EntityTypeMapping TypeName="ArtHistoryDBModel.TbKartini">
+        <MappingFragment StoreEntitySet="TbKartini">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nazvanie" ColumnName="Nazvanie" />
+          <ScalarProperty Name="Avtor" ColumnName="Avtor" />
+          <ScalarProperty Name="Opisanie" ColumnName="Opisanie" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Epoha" ColumnName="Epoha" />
+          <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+          <ScalarProperty Name="Favorite" ColumnName="Favorite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TbSlovar">
+      <EntityTypeMapping TypeName="ArtHistoryDBModel.TbSlovar">
+        <MappingFragment StoreEntitySet="TbSlovar">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Termin" ColumnName="Termin" />
+          <ScalarProperty Name="Opisanie" ColumnName="Opisanie" />
+          <ScalarProperty Name="Favorite" ColumnName="Favorite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TbSsilki">
+      <EntityTypeMapping TypeName="ArtHistoryDBModel.TbSsilki">
+        <MappingFragment StoreEntitySet="TbSsilki">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ssilka" ColumnName="Ssilka" />
+          <ScalarProperty Name="Opisanie" ColumnName="Opisanie" />
+          <ScalarProperty Name="Favorite" ColumnName="Favorite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище ArtHistoryDBModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TbEpohi">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nazvanie" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="Opisanie" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Date" Type="nvarchar" MaxLength="255" />
+    <Property Name="ImagePath" Type="nvarchar" MaxLength="600" />
+    <Property Name="Favorite" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TbHudozhniki">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fio" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="Biografia" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Date" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Epoha" Type="nvarchar" MaxLength="500" />
+    <Property Name="ImagePath" Type="nvarchar" MaxLength="600" />
+    <Property Name="Favorite" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TbKartini">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nazvanie" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="Avtor" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="Opisanie" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Date" Type="nvarchar" MaxLength="255" />
+    <Property Name="Epoha" Type="nvarchar" MaxLength="500" />
+    <Property Name="ImagePath" Type="nvarchar" MaxLength="600" />
+    <Property Name="Favorite" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TbSlovar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Termin" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="Opisanie" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Favorite" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TbSsilki">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ssilka" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="Opisanie" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Favorite" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Хранилище ArtHistoryDBModelContainer">
+    <EntitySet Name="TbEpohi" EntityType="Self.TbEpohi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TbHudozhniki" EntityType="Self.TbHudozhniki" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TbKartini" EntityType="Self.TbKartini" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TbSlovar" EntityType="Self.TbSlovar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TbSsilki" EntityType="Self.TbSsilki" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

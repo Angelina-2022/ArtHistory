@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище ArtHistoryDBModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="TbEpohi">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nazvanie" Type="nvarchar" MaxLength="500" Nullable="false" />
+          <Property Name="Opisanie" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Date" Type="nvarchar" MaxLength="255" />
+          <Property Name="ImagePath" Type="nvarchar" MaxLength="600" />
+          <Property Name="Favorite" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TbHudozhniki">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Fio" Type="nvarchar" MaxLength="500" Nullable="false" />
+          <Property Name="Biografia" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Date" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Epoha" Type="nvarchar" MaxLength="500" />
+          <Property Name="ImagePath" Type="nvarchar" MaxLength="600" />
+          <Property Name="Favorite" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TbKartini">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nazvanie" Type="nvarchar" MaxLength="500" Nullable="false" />
+          <Property Name="Avtor" Type="nvarchar" MaxLength="500" Nullable="false" />
+          <Property Name="Opisanie" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Date" Type="nvarchar" MaxLength="255" />
+          <Property Name="Epoha" Type="nvarchar" MaxLength="500" />
+          <Property Name="ImagePath" Type="nvarchar" MaxLength="600" />
+          <Property Name="Favorite" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TbSlovar">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Termin" Type="nvarchar" MaxLength="500" Nullable="false" />
+          <Property Name="Opisanie" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Favorite" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TbSsilki">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Ssilka" Type="nvarchar" MaxLength="500" Nullable="false" />
+          <Property Name="Opisanie" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Favorite" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="Хранилище ArtHistoryDBModelContainer">
+          <EntitySet Name="TbEpohi" EntityType="Self.TbEpohi" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TbHudozhniki" EntityType="Self.TbHudozhniki" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TbKartini" EntityType="Self.TbKartini" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TbSlovar" EntityType="Self.TbSlovar" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TbSsilki" EntityType="Self.TbSsilki" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ArtHistoryDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="TbEpohi">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nazvanie" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Opisanie" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Date" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="ImagePath" Type="String" MaxLength="600" FixedLength="false" Unicode="true" />
+          <Property Name="Favorite" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TbHudozhniki">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Fio" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Biografia" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Date" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Epoha" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="ImagePath" Type="String" MaxLength="600" FixedLength="false" Unicode="true" />
+          <Property Name="Favorite" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TbKartini">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nazvanie" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Avtor" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Opisanie" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Date" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Epoha" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="ImagePath" Type="String" MaxLength="600" FixedLength="false" Unicode="true" />
+          <Property Name="Favorite" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TbSlovar">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Termin" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Opisanie" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Favorite" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TbSsilki">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Ssilka" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Opisanie" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Favorite" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="ArtHistoryDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="TbEpohi" EntityType="Self.TbEpohi" />
+          <EntitySet Name="TbHudozhniki" EntityType="Self.TbHudozhniki" />
+          <EntitySet Name="TbKartini" EntityType="Self.TbKartini" />
+          <EntitySet Name="TbSlovar" EntityType="Self.TbSlovar" />
+          <EntitySet Name="TbSsilki" EntityType="Self.TbSsilki" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище ArtHistoryDBModelContainer" CdmEntityContainer="ArtHistoryDBEntities">
+          <EntitySetMapping Name="TbEpohi">
+            <EntityTypeMapping TypeName="ArtHistoryDBModel.TbEpohi">
+              <MappingFragment StoreEntitySet="TbEpohi">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Nazvanie" ColumnName="Nazvanie" />
+                <ScalarProperty Name="Opisanie" ColumnName="Opisanie" />
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+                <ScalarProperty Name="Favorite" ColumnName="Favorite" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TbHudozhniki">
+            <EntityTypeMapping TypeName="ArtHistoryDBModel.TbHudozhniki">
+              <MappingFragment StoreEntitySet="TbHudozhniki">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Fio" ColumnName="Fio" />
+                <ScalarProperty Name="Biografia" ColumnName="Biografia" />
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="Epoha" ColumnName="Epoha" />
+                <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+                <ScalarProperty Name="Favorite" ColumnName="Favorite" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TbKartini">
+            <EntityTypeMapping TypeName="ArtHistoryDBModel.TbKartini">
+              <MappingFragment StoreEntitySet="TbKartini">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Nazvanie" ColumnName="Nazvanie" />
+                <ScalarProperty Name="Avtor" ColumnName="Avtor" />
+                <ScalarProperty Name="Opisanie" ColumnName="Opisanie" />
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="Epoha" ColumnName="Epoha" />
+                <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+                <ScalarProperty Name="Favorite" ColumnName="Favorite" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TbSlovar">
+            <EntityTypeMapping TypeName="ArtHistoryDBModel.TbSlovar">
+              <MappingFragment StoreEntitySet="TbSlovar">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Termin" ColumnName="Termin" />
+                <ScalarProperty Name="Opisanie" ColumnName="Opisanie" />
+                <ScalarProperty Name="Favorite" ColumnName="Favorite" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TbSsilki">
+            <EntityTypeMapping TypeName="ArtHistoryDBModel.TbSsilki">
+              <MappingFragment StoreEntitySet="TbSsilki">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Ssilka" ColumnName="Ssilka" />
+                <ScalarProperty Name="Opisanie" ColumnName="Opisanie" />
+                <ScalarProperty Name="Favorite" ColumnName="Favorite" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

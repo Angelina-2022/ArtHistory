@@ -1,0 +1,24 @@
+﻿<Window x:Class="ArtHistory.SplashScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArtHistory"
+        mc:Ignorable="d"
+       WindowStyle="None" Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen" ShowInTaskbar="False"
+        Background="DarkGreen"
+        >
+    <Grid>
+
+        <Image Source="\Resources\00168f511042368b9a872e5f3fe6ee42_1.jpg" Stretch="UniformToFill"/>
+        <StackPanel Background="AliceBlue" Opacity="0.4" Width="600" Margin="200,218,200,221">
+            <TextBlock Text="ArtHistory" Margin="20" Opacity="100" FontSize="86" FontWeight="ExtraBold" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <Border CornerRadius="6" BorderBrush="AliceBlue"  BorderThickness="1.5" Width="504" Height="27" Margin="248,419,248,155">
+            <ProgressBar IsIndeterminate="True" Width="auto" Height="auto" Margin="2" BorderThickness="0" Background="Transparent" Foreground="#FF8642FF"/>
+        </Border>
+
+    </Grid>
+</Window>

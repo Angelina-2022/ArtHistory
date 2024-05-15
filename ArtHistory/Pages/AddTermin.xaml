@@ -1,0 +1,36 @@
+﻿<Page x:Class="ArtHistory.Pages.AddTermin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ArtHistory.Pages"
+      mc:Ignorable="d" 
+      Height="auto" d:DesignWidth="800"
+      Title="AddTermin"
+      Background="White">
+
+    <Grid>
+        <StackPanel Margin="20">
+
+            <StackPanel>
+            <Label Content="Термин:"/>
+            <TextBox x:Name="tbTermin" MinWidth="500" Height="30"/>
+     
+                <Label Content="Описание:" />
+                <RichTextBox x:Name="tbOpisanie" VerticalScrollBarVisibility="Auto" MinHeight="150" Height="auto" MaxHeight="400" IsReadOnly="False" >
+                    <FlowDocument>
+                        <Paragraph LineHeight="1.2">
+                            <!-- Ваш редактируемый текст здесь -->
+                        </Paragraph>
+                    </FlowDocument>
+                </RichTextBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="5" >
+                <Button x:Name="btnClear" Content="Очистить" Click="Button_ClickOtmena" Margin="0,5, 30, 5" Height="25" Width="90"/>
+                <Button x:Name="btnSave" Content="Сохранить" Click="Button_ClickSave" Margin="0,5, 0, 5" Height="25" Width="90"/>
+            </StackPanel>
+            
+        </StackPanel>
+    </Grid>
+</Page>

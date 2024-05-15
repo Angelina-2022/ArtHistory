@@ -1,0 +1,78 @@
+﻿<Page x:Class="ArtHistory.Pages.Slovar"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ArtHistory.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Slovar"
+      Background="White">
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0"  Orientation="Horizontal" HorizontalAlignment="Stretch" Background="#DFFFB4">
+            <Button Content="А-Я" Click="SortAscending_Click" Height="30" Padding="5" Margin="20,0,5,0" Background="LightGreen" Focusable="True"/>
+            <Button Content="Я-А" Click="SortDescending_Click" Height="30" Padding="5" Margin="5,0,5,0" Background="LightGreen"/>
+
+            <Button Content="Избранное" Click="ShowFavorites_Click" Height="30" Padding="5" Margin="20,0,5,0" Background="#5EC7BF"/>
+            <Button Content="Все записи" Click="All_Click" Height="30" Padding="5" Margin="20,0,5,0" Background="#5EC7BF"/>
+
+            <TextBox x:Name="searchTextBox" TextChanged="TextBox_TextChanged" Margin="20,0,5,0" VerticalAlignment="Center" Width="250" Height="25"/>
+            <Image Source="IconResources/free-icon-search-2414255.png" Width="40" Height="40" Margin="0,0,5,0"/>
+        </StackPanel>
+
+        <DataGrid Grid.Row="1" x:Name="ItemsControl" ItemsSource="{Binding Items}" AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn  Header="Термин" Binding="{Binding Termin}" Width="200" IsReadOnly="True">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="TextBlock.FontSize" Value="13"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Top"/>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Описание" Binding="{Binding Opisanie}" Width="*" IsReadOnly="True">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="TextBlock.FontSize" Value="13"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Top"/>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTemplateColumn Header="" Width="130">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button ToolTip="редактировать" Background="Transparent" Height="25" Width="25" Margin="15,5,5,5"  BorderThickness="0" Click="EditButton_Click" CommandParameter="{Binding}">
+                                    <Button.Content>
+                                        <Image Source= "/Resources/3388898.png"/>
+                                    </Button.Content> 
+                                </Button>
+                                <Button  ToolTip="удалить"  Background="Transparent" Height="25" Width="25" Margin="5"  BorderThickness="0" Click="DeleteButton_Click" CommandParameter="{Binding}">
+                                    <Button.Content>
+                                        <Image Source= "\Resources\3893833.png"/>
+                                    </Button.Content>
+                                </Button>
+                                <Button  ToolTip="добавить в избранное"  Background="Transparent" Height="25" Width="25" Margin="5"  BorderThickness="0" Click="FavoriteButton_Click" CommandParameter="{Binding}">
+                                    <Button.Content>
+                                        <Image Source= "\Resources\2099045.png"/>
+                                    </Button.Content>
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+
+
+</Page>

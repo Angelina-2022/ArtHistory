@@ -1,0 +1,595 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|c:\\users\\angelina\\source\\repos\\\u043F\u043F \u0430\u043F\u0440\u0435\u043B\u044C 24\\arthistory\\arthistory\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\slovar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\slovar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\slovar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\slovar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\links.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\links.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\links.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\links.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\kartini.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\kartini.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\kartini.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\kartini.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\hudozhniki.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\hudozhniki.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\hudozhniki.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\hudozhniki.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\addtermin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\addtermin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\addtermin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\addtermin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\addkartina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\addkartina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\addkartina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\addkartina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\epohi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\epohi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\izbrannoe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\izbrannoe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\addepoha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\addepoha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\addhudozhnik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\addhudozhnik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\viewhudozhnik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\viewhudozhnik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\viewkartina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\viewkartina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\viewepoha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\viewepoha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\image\\free-icon-search-2414255.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\image\\free-icon-search-2414255.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\resources\\free-icon-search-2414255.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\resources\\free-icon-search-2414255.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\viewepoha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\viewepoha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\addepoha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\addepoha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\add.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\add.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\epohi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\epohi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\epohi.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\epohi.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\add.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\add.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\themebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\themebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\about.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\about.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\pages\\about.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\pages\\about.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\arthistory\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8AE012-A86C-4DB8-9D3E-F63F48B765DF}|ArtHistory\\ArtHistory.csproj|solutionrelative:arthistory\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAnwFoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:17:14.251Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Add.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Add.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Add.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\Add.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T15:26:45.049Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kartini.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Kartini.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Kartini.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Kartini.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\Kartini.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T15:16:18.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Links.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Links.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Links.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Links.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\Links.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T10:44:53.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Links.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Links.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Links.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Links.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\Pages\\Links.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA7wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:45:12.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Slovar.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Slovar.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Slovar.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Slovar.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\Slovar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T13:39:43.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\MainWindow.xaml",
+              "RelativeToolTip": "ArtHistory\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T10:26:00.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pages\\Kartini.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Kartini.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Kartini.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Kartini.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\Pages\\Kartini.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA7wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:27:38.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pages\\Slovar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Slovar.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Slovar.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Slovar.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\Pages\\Slovar.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA7wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:31:05.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pages\\Hudozhniki.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Hudozhniki.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Hudozhniki.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Hudozhniki.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\Pages\\Hudozhniki.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA7wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:27:13.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hudozhniki.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Hudozhniki.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Hudozhniki.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Hudozhniki.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\Hudozhniki.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T14:44:01.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Epohi.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Epohi.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Epohi.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Epohi.xaml*",
+              "RelativeToolTip": "ArtHistory\\Pages\\Epohi.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T12:21:56.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Izbrannoe.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Izbrannoe.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Izbrannoe.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Izbrannoe.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\Izbrannoe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T15:15:51.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T14:24:10.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pages\\AddTermin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddTermin.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\AddTermin.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddTermin.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\Pages\\AddTermin.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA7wCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:26:57.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddTermin.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddTermin.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\AddTermin.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddTermin.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\AddTermin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T10:24:30.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pages\\AddKartina.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddKartina.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\AddKartina.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddKartina.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\Pages\\AddKartina.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA0wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:26:00.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddKartina.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddKartina.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\AddKartina.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddKartina.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\AddKartina.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T10:24:05.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\App.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\App.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\App.xaml",
+              "RelativeToolTip": "ArtHistory\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T08:16:02.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Add.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Add.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Add.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Add.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\Add.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T12:17:36.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ThemeButton.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\ThemeButton.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\ThemeButton.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\ThemeButton.cs",
+              "RelativeToolTip": "ArtHistory\\ThemeButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:12:15.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "About.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\About.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\About.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\About.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\Pages\\About.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:20:03.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "About.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\About.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\About.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\About.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\About.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T09:23:56.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddEpoha.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddEpoha.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\AddEpoha.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddEpoha.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\AddEpoha.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T10:23:49.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddHudozhnik.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddHudozhnik.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\AddHudozhnik.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddHudozhnik.xaml*",
+              "RelativeToolTip": "ArtHistory\\Pages\\AddHudozhnik.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T10:24:17.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ViewHudozhnik.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\ViewHudozhnik.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\ViewHudozhnik.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\ViewHudozhnik.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\ViewHudozhnik.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T10:33:22.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViewKartina.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\ViewKartina.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\ViewKartina.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\ViewKartina.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\ViewKartina.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T10:33:36.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewEpoha.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\ViewEpoha.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\ViewEpoha.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\ViewEpoha.xaml",
+              "RelativeToolTip": "ArtHistory\\Pages\\ViewEpoha.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T10:33:03.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Pages\\ViewEpoha.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\ViewEpoha.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\ViewEpoha.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\ViewEpoha.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\Pages\\ViewEpoha.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADgvxAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:49:12.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "free-icon-search-2414255.png - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Image\\free-icon-search-2414255.png",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Image\\free-icon-search-2414255.png",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Image\\free-icon-search-2414255.png - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "ArtHistory\\Pages\\Image\\free-icon-search-2414255.png - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-01T13:06:36.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "ArtHistory\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Properties\\Resources.resx",
+              "RelativeToolTip": "ArtHistory\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-01T08:19:31.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "free-icon-search-2414255.png - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Resources\\free-icon-search-2414255.png",
+              "RelativeDocumentMoniker": "ArtHistory\\Resources\\free-icon-search-2414255.png",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Resources\\free-icon-search-2414255.png - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "ArtHistory\\Resources\\free-icon-search-2414255.png - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-01T12:59:31.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\MainWindow.xaml*",
+              "RelativeToolTip": "ArtHistory\\MainWindow.xaml*",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwGIAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T15:03:24.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Pages\\AddEpoha.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddEpoha.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\AddEpoha.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\AddEpoha.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\Pages\\AddEpoha.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAywCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:46:39.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Add.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Add.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Add.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Add.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\Pages\\Add.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAnwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:50:41.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Epohi.xaml",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Epohi.xaml",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Epohi.xaml",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Epohi.xaml*",
+              "RelativeToolTip": "ArtHistory\\Pages\\Epohi.xaml*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T08:29:03.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Pages\\Epohi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Epohi.xaml.cs",
+              "RelativeDocumentMoniker": "ArtHistory\\Pages\\Epohi.xaml.cs",
+              "ToolTip": "C:\\Users\\Angelina\\source\\repos\\\u041F\u041F \u0430\u043F\u0440\u0435\u043B\u044C 24\\ArtHistory\\ArtHistory\\Pages\\Epohi.xaml.cs",
+              "RelativeToolTip": "ArtHistory\\Pages\\Epohi.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:32:51.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

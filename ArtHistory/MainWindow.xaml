@@ -1,0 +1,141 @@
+﻿<Window x:Class="ArtHistory.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArtHistory"
+        mc:Ignorable="d"
+        Title="ArtHistory" Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen"
+        Background="White"
+        Icon="\Resources\8988662.png">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Верхняя полоса -->
+
+
+        <!-- Меню слева -->
+        <Border BorderThickness="1" Margin="5" CornerRadius="15"  VerticalAlignment="Stretch">
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#00AF64"/>
+                    <GradientStop Color="#3F92D2" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+
+            <Menu FontSize="16"  Background="Transparent" FontFamily="Lucida Sans Unicode" FontStretch="Medium" FontWeight="Normal" Foreground="Black" >
+
+                <Menu.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Margin="10,20,9,0" />
+                    </ItemsPanelTemplate>
+                </Menu.ItemsPanel>
+
+                <Border Width="155" BorderThickness="1" Opacity="0.7" Margin="0" Background="DarkSlateBlue" CornerRadius="15"  VerticalAlignment="Stretch" IsEnabled="False">
+
+                    <TextBlock Text="ArtHistory" Foreground="AliceBlue" FontSize="25" Margin="15,10,0,10"/>
+                </Border>
+
+                <MenuItem Header="Об искусстве" Focusable="True"
+              Margin="0,5,0,0"
+              Click="Home" >
+                    <MenuItem.Icon>
+                        <Image Source="Resources\2099045.png" Width="16" Height="16"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+
+
+                <MenuItem Header="Добавить" Margin="0,5,0,0" Click="MenuItem_Click"  >
+
+                    <MenuItem Header="Направление" Margin="0,5,0,0"
+                  Click="AddEpoha"/>
+                    <MenuItem Header="Художника" Margin="0,5,0,0"
+                  Click="AddHudozhnik"/>
+                    <MenuItem Header="Произведение" Margin="0,5,0,0"
+                  Click="AddKartina"/>
+                    <MenuItem Header="Термин" Margin="0,5,0,0"
+                  Click="AddTermins"/>
+                    <MenuItem Header="Ссылку" Margin="0,5,0,0"
+                  Click="AddLink"/>
+
+                    <MenuItem.Icon>
+                        <Image Source="Resources\2099163.png" Width="16" Height="16"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+
+                <MenuItem Header="Эпохи и стили" Margin="0,5,0,0"
+              Click="Epohi">
+                    <MenuItem.Icon>
+                        <Image Source="Resources\1882642.png" Width="16" Height="16"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+
+                <MenuItem Header="Произведения" Margin="0,5,0,0"
+              Click="Kartina">
+                    <MenuItem.Icon>
+                        <Image Source="Resources\1664402.png" Width="16" Height="16"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+
+                <MenuItem Header="Художники" Margin="0,5,0,0"
+               Click="Hudozhniki">
+                    <MenuItem.Icon>
+                        <Image Source="Resources\15486416.png" Width="18" Height="18"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+
+                <MenuItem Header="Словарь" Margin="0,5,0,0"
+              Click="Termins">
+                    <MenuItem.Icon>
+                        <Image Source="Resources\8289575.png" Width="16" Height="16"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+
+                <MenuItem Header="Ссылки" Margin="0,5,0,0"
+              Click="Links">
+                    <MenuItem.Icon>
+                        <Image Source="Resources\internet_1864936.png" Width="16" Height="16"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+
+
+                <MenuItem Header="О разработчике" Margin="0,5,0,0"
+              Click="About">
+                    <MenuItem.Icon>
+                        <Image Source="Resources\545674.png" Width="16" Height="16"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+
+           
+            </Menu>
+            
+            
+
+        </Border>
+
+
+        <!-- Содержимое страницы -->
+        <ScrollViewer Grid.Column="3">
+
+            <Frame x:Name="MainContent" 
+                Content="{Binding MainContent}"
+                Grid.Column="1" 
+                Grid.Row="1" 
+                Grid.ColumnSpan="3"
+                Navigated="MainContent_Navigated" 
+                Width="auto">
+
+            </Frame>
+        </ScrollViewer>
+    </Grid>
+
+</Window>

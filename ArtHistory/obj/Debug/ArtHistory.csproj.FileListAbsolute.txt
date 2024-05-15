@@ -1,0 +1,229 @@
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\ArtHistory.csproj.AssemblyReference.cache
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\MainWindow.g.cs
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\App.g.cs
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\ArtHistory_MarkupCompile.cache
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\ArtHistory_MarkupCompile.lref
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\Pages\ZhivopisPage.g.cs
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\bin\Debug\ArtHistory.exe.config
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\bin\Debug\ArtHistory.exe
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\bin\Debug\ArtHistory.pdb
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\Pages\HomePage.baml
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\MainWindow.baml
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\Pages\ZhivopisPage.baml
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\ArtHistory.g.resources
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\ArtHistory.Properties.Resources.resources
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\ArtHistory.csproj.GenerateResource.cache
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\ArtHistory.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\ArtHistory.exe
+C:\Users\Angelina\source\repos\ArtHistory\ArtHistory\obj\Debug\ArtHistory.pdb
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\ArtHistory.exe.config
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\ArtHistory.exe
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\ArtHistory.pdb
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\CommonServiceLocator.dll
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\ArtHistory.csproj.AssemblyReference.cache
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\About.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Add.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Epohi.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\MainWindow.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Hudozhniki.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Izbrannoe.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Kartini.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Links.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Slovar.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\App.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\ArtHistory_MarkupCompile.cache
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\ArtHistory_MarkupCompile.lref
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\About.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Add.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Epohi.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\HomePage.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\MainWindow.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Hudozhniki.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Izbrannoe.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Kartini.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Links.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\Slovar.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\ArtHistory.g.resources
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\ArtHistory.Properties.Resources.resources
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\ArtHistory.csproj.GenerateResource.cache
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\ArtHistory.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\ArtHistory.csproj.Up2Date
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\ArtHistory.exe
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\ArtHistory.pdb
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\AddEpoha.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\AddHudozhnik.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\AddKartina.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\AddTermin.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\ViewEpoha.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\ViewHudozhnik.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\ViewKartina.g.cs
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\AddEpoha.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\AddHudozhnik.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\AddKartina.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\AddTermin.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\ViewEpoha.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\ViewHudozhnik.baml
+C:\Users\Angelina\source\repos\ПП апрель 24\ArtHistory\ArtHistory\obj\Debug\Pages\ViewKartina.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\ArtHistory.exe.config
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\ArtHistory.exe
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\ArtHistory.pdb
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\CommonServiceLocator.dll
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.csproj.AssemblyReference.cache
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\About.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddEpoha.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddHudozhnik.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddKartina.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddTermin.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Epohi.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\MainWindow.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Hudozhniki.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Izbrannoe.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Kartini.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Links.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Slovar.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewEpoha.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewHudozhnik.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewKartina.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\App.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory_MarkupCompile.cache
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory_MarkupCompile.lref
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\About.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddEpoha.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddHudozhnik.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddKartina.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddTermin.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Epohi.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\HomePage.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\MainWindow.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Hudozhniki.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Izbrannoe.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Kartini.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Links.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Slovar.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewEpoha.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewHudozhnik.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewKartina.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.g.resources
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.Properties.Resources.resources
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.csproj.GenerateResource.cache
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.csproj.Up2Date
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.exe
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.pdb
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\App.baml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\EntityFramework.dll
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\EntityFramework.xml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory_Content.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddLink.g.cs
+C:\Users\Angelina\OneDrive\Документы\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddLink.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\ArtHistory.exe.config
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\ArtHistory.exe
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\ArtHistory.pdb
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\CommonServiceLocator.dll
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\EntityFramework.dll
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\EntityFramework.xml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.csproj.AssemblyReference.cache
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\About.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddEpoha.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddHudozhnik.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddKartina.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddLink.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddTermin.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Epohi.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\MainWindow.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Hudozhniki.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Kartini.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Links.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Slovar.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewEpoha.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewHudozhnik.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewKartina.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\App.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory_Content.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory_MarkupCompile.cache
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory_MarkupCompile.lref
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\App.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\About.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddEpoha.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddHudozhnik.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddKartina.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddLink.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\AddTermin.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Epohi.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\HomePage.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\MainWindow.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Hudozhniki.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Kartini.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Links.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\Slovar.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewEpoha.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewHudozhnik.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\ViewKartina.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.g.resources
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.Properties.Resources.resources
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.csproj.GenerateResource.cache
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.csproj.Up2Date
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.exe
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\ArtHistory.pdb
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\Prism.dll
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\Prism.Wpf.dll
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\Prism.pdb
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\Prism.xml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\Prism.Wpf.pdb
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\bin\Debug\Prism.Wpf.xml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\SplashScreen.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\SplashScreen.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\EditEpoha.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\EditHudozhnik.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\EditKartina.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\EditSsilka.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\EditTermin.g.cs
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\EditEpoha.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\EditHudozhnik.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\EditKartina.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\EditSsilka.baml
+C:\Users\Angelina\source\repos\ArtHistoryPP\ArtHistory\obj\Debug\Pages\EditTermin.baml

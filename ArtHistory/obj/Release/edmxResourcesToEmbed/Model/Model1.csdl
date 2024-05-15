@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ArtHistoryDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TbEpohi">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nazvanie" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Opisanie" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Date" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="ImagePath" Type="String" MaxLength="600" FixedLength="false" Unicode="true" />
+    <Property Name="Favorite" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TbHudozhniki">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fio" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Biografia" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Date" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Epoha" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="ImagePath" Type="String" MaxLength="600" FixedLength="false" Unicode="true" />
+    <Property Name="Favorite" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TbKartini">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nazvanie" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Avtor" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Opisanie" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Date" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Epoha" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="ImagePath" Type="String" MaxLength="600" FixedLength="false" Unicode="true" />
+    <Property Name="Favorite" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TbSlovar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Termin" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Opisanie" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Favorite" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TbSsilki">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ssilka" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Opisanie" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Favorite" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ArtHistoryDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TbEpohi" EntityType="Self.TbEpohi" />
+    <EntitySet Name="TbHudozhniki" EntityType="Self.TbHudozhniki" />
+    <EntitySet Name="TbKartini" EntityType="Self.TbKartini" />
+    <EntitySet Name="TbSlovar" EntityType="Self.TbSlovar" />
+    <EntitySet Name="TbSsilki" EntityType="Self.TbSsilki" />
+  </EntityContainer>
+</Schema>
